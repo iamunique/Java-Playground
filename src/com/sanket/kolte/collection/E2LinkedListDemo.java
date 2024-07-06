@@ -2,7 +2,7 @@ package com.sanket.kolte.collection;
 
 import java.util.LinkedList;
 
-public class LinkedListDemo {
+public class E2LinkedListDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
